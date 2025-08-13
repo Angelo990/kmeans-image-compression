@@ -15,7 +15,7 @@ def load_image(path):
 # Main function
 def main():
     # TODO: Add image path
-    image_path = r'C:\Users\Angelo J. Papas\Pictures\Screenshots\Screenshot 2025-06-27 013146.png'  # Change to your image file
+    image_path = r'images/sample.jpg'  # Change to your image file
     img = load_image(image_path)
     print('Image loaded:', img.shape)
 
