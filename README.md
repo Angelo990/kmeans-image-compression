@@ -1,5 +1,7 @@
 # K-means Image Compression
 
+This is a simple school project demonstrating image compression using k-means clustering.
+
 This project demonstrates image compression using the k-means clustering algorithm in Python.
 
 ## How It Works
